@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+# 第一次作业
 
-You can use the [editor on GitHub](https://github.com/sysu16340234/swsad01/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 软件工程的基本定义
+Software engineering is “(1) the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software, that is, the application of engineering to software,” and “(2) the study of approaches as in (1).” –– IEEE Standard 610.12
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+软件工程是以系统性的,有纪律的,可度量的方法对软件进行开发,操作和维护的应用过程,是工程方法在软件上的应用.
 
-### Markdown
+## 软件危机的原因和表现
+软件危机表现在难以在一定时间内开发出可用的,高效的软件,这是由于计算机的高速发展和程序复杂度的提高导致的,要克服软件危机,就必须要有系统,高效的,与时俱进的软件工程方法.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 软件生命周期
+在时间维度，对软件项目任务进行划分，又称为软件开发过程。常见的划分方法有瀑布模型、螺旋模型、敏捷模型等。
 
-```markdown
-Syntax highlighted code block
+## SWEBoK
+1.软件需求
 
-# Header 1
-## Header 2
-### Header 3
+软件需求是对软件产品的需求和约束,对解决问题有指导意义;
 
-- Bulleted
-- List
+2.软件设计
 
-1. Numbered
-2. List
+软件设计是对系统或工件的体系结构,组件,接口和其他特性进行设计的过程及其结果.软件设计在分析需求的基础上进行,其结果必须能够描述软件整体及各个组件的体系结构
 
-**Bold** and _Italic_ and `Code` text
+3.软件建设
 
-[Link](url) and ![Image](src)
-```
+软件建设是指通过详细设计、编码、单元测试、集成测试、调试和验证相结合，对软件进行详细的创建的过程
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+4.软件测试
 
-### Jekyll Themes
+测试是一种通过识别缺陷来评估产品质量和改进产品质量的活动。软件测试包括在有限的测试用例集中，根据预期的行为对程序的行为进行动态验证
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sysu16340234/swsad01/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+5.软件维护
 
-### Support or Contact
+软件维护包括对现有的功能进行完善，使软件适应新的或修改过的操作环境，以及纠正软件缺陷的过程。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+6.软件配置管理
+
+软件配置管理是在不同的时间点对系统配置进行确认，目的是系统地控制配置的变更，以及在整个软件生命周期中维护配置的完整性和可跟踪性。
+
+7.软件工程管理
+
+软件工程管理包括对一个程序或项目的计划、协调、度量、报告和控制，以确保软件的开发和维护是系统的、有纪律的和可量化的。
+
+8.软件工程过程
+
+软件工程过程涉及软件生命周期过程的定义、实现、评估、度量、管理和改进。涵盖的主题包括过程实现和变更,过程定义,过程评估模型和方法，测量，以及软件处理工具。
+
+9.软件工程模型和方法
+
+软件工程模型和方法解决了包含多个生命周期阶段的方法。涵盖的主题包括建模,模型的类型,分析,以及软件开发方法。
+
+10.软件质量
+
+软件质量是一个普遍存在的软件生命周期问题,包括软件质量的基础，软件质量管理过程以及实际的考虑。
+
+11.软件工程专业实践
+
+软件工程专业实践是指软件工程师必须具备的知识、技能和态度，以便以专业的、负责任的和合乎道德的方式实践软件工程
+
+12.软件工程经济学
+
+软件工程经济学关注的是在业务上下文中做出决策,使技术决策与组织的业务目标保持一致。包括软件工程经济学的基本原理,非营利性决策,对风险和不确定性的评估;
+
+13.计算基础
+
+计算基础涵盖了为软件工程实践提供必要的计算背景的基本主题。包括解决技术、抽象、算法和复杂性、编程基础、并行和分布式计算基础、计算机组织、操作系统和网络通信等方面的问题。
+
+14.数学基础
+
+数学基础涵盖了为软件工程实践提供必要的数学背景的基本主题。包括集合、关系和函数，基本命题与谓词逻辑，证明技术，图和树,离散型概率,语法和有限状态机,数论。
+
+15.工程基础
+
+工程基础涵盖了为软件工程实践提供必要的工程背景的基本主题。包括经验方法和实验技术;统计分析;测量和度量;工程设计;仿真和建模;以及原因分析。
