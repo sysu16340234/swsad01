@@ -71,3 +71,14 @@ Software engineering is “(1) the application of a systematic, disciplined, qua
 ### 15.工程基础
 
 工程基础涵盖了为软件工程实践提供必要的工程背景的基本主题。包括经验方法和实验技术;统计分析;测量和度量;工程设计;仿真和建模;以及原因分析。
+
+## CMMI
+Level 1 - Initial:无序的,自发的生产模式,对过程几乎没有定义;
+
+Level 2 - Managed:可管理的,对过程有基本的跟踪和管理;
+
+Level 3 - Defined:可定义的,将工程和管理的过程通过文档进行标准化的定义,所有项目使用规定的标准;
+
+Level 4 - Quantitatively Managed:量化管理
+
+
